@@ -1,3 +1,3 @@
 # evenstub
-# live project
+# live Demo
 https://eventstub-assignment.netlify.app/
